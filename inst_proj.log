@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  9 MAR 2016 23:51
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  10 MAR 2016 00:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,49 +839,55 @@ LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sc' undefined
 (Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 43.
 
 
-Overfull \hbox (3.26016pt too wide) in paragraph at lines 52--53
-\EU1/TimesNewRoman(0)/bx/n/12 Аннотация \EU1/TimesNewRoman(0)/m/n/12 – Основная
- идея работы заключалась в построении модели олигпсонического рынка
+Overfull \hbox (5.72305pt too wide) in paragraph at lines 52--53
+\EU1/TimesNewRoman(0)/m/n/12 рынка труда на основе случайных исходов для провер
+ки гипотезы об отрицательной зависимости
  []
 
 
-Overfull \hbox (6.04184pt too wide) in paragraph at lines 52--53
-\EU1/TimesNewRoman(0)/m/n/12 США. Построив модель, мы получили, что на рынках, 
-где присутствует несколько университетов
+Overfull \hbox (1.45352pt too wide) in paragraph at lines 52--53
+\EU1/TimesNewRoman(0)/m/n/12 стажа работы в одном университете и заработной пла
+ты профессоров в США. После построения
  []
 
 
-Overfull \hbox (4.75885pt too wide) in paragraph at lines 55--56
-[]\EU1/TimesNewRoman(0)/m/n/12 Снижение заработной платы профессоров с увеличен
-ием стажа работы является довольно
+Overfull \hbox (8.6594pt too wide) in paragraph at lines 52--53
+\EU1/TimesNewRoman(0)/m/n/12 модели был получен вывод: на рынках, где присутств
+ует несколько университетов одного уровня,
  []
 
 
-Overfull \hbox (24.30783pt too wide) in paragraph at lines 55--56
-\EU1/TimesNewRoman(0)/m/n/12 необычным феноменом для рынка труда, так как прави
-ло наблюдается абсолютно противоположный
+Overfull \hbox (16.82332pt too wide) in paragraph at lines 52--53
+\EU1/TimesNewRoman(0)/m/n/12 которая переодически будет возникать на рынках под
+обного типа. Выводы модели были проверены
  []
 
 
-Overfull \hbox (4.27383pt too wide) in paragraph at lines 58--59
+Overfull \hbox (24.50314pt too wide) in paragraph at lines 55--56
+\EU1/TimesNewRoman(0)/m/n/12 работы в одном университете является довольно необ
+ычным феноменом для рынка труда, поскольку,
+ []
+
+
+Overfull \hbox (4.27383pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 зависимости уровня заработных плат и продолжительн
 ости времени работы в конкретном месте.
  []
 
 
-Overfull \hbox (7.36447pt too wide) in paragraph at lines 58--59
+Overfull \hbox (7.36447pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 Согласно ей фирма поощряет работника за приобретен
 ие навыков и знаний, которые специфичны
  []
 
 
-Overfull \hbox (18.83583pt too wide) in paragraph at lines 58--59
+Overfull \hbox (18.83583pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 для конкретного работодателя. Фирма устанавливает 
 более высокую заработную плату, стимулируя
  []
 
 
-Overfull \hbox (4.7258pt too wide) in paragraph at lines 58--59
+Overfull \hbox (4.7258pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 Всё же существуют такие рынки труда, где исследова
 тели выявляют отрицательную зависимость
  []
@@ -889,296 +895,297 @@ Overfull \hbox (4.7258pt too wide) in paragraph at lines 58--59
 [1
 
 ]
-Overfull \hbox (11.47464pt too wide) in paragraph at lines 60--61
+Overfull \hbox (11.47464pt too wide) in paragraph at lines 61--62
 \EU1/TimesNewRoman(0)/m/n/12 Study (1969) заключило что, индивиды, проработавши
 е как минимум 30 лет в одном университете,
  []
 
 
-Overfull \hbox (7.43405pt too wide) in paragraph at lines 60--61
+Overfull \hbox (7.43405pt too wide) in paragraph at lines 61--62
 \EU1/TimesNewRoman(0)/m/n/12 с поправкой на учёную степень, научную область, по
 л, расу, качество института, диплом которого
  []
 
 
-Overfull \hbox (5.49924pt too wide) in paragraph at lines 60--61
+Overfull \hbox (5.49924pt too wide) in paragraph at lines 61--62
 \EU1/TimesNewRoman(0)/m/n/12 получен, продолжительность контракта и контролируе
 мость нанимающего учреждения частным
  []
 
 
-Overfull \hbox (16.31094pt too wide) in paragraph at lines 64--65
+Overfull \hbox (16.31094pt too wide) in paragraph at lines 65--66
 \EU1/TimesNewRoman(0)/m/n/12 Для всей выборки университетов корреляция между за
 работными платами и сеньорити не являлась
  []
 
 
-Overfull \hbox (17.92879pt too wide) in paragraph at lines 66--67
+Overfull \hbox (17.92879pt too wide) in paragraph at lines 67--68
 \EU1/TimesNewRoman(0)/m/n/12 увеличить заработную плату профессора примерно на 
 5-6%. Также величина снижения заработных
  []
 
 
-Overfull \hbox (10.3565pt too wide) in paragraph at lines 68--69
+Overfull \hbox (10.3565pt too wide) in paragraph at lines 69--70
 []\EU1/TimesNewRoman(0)/m/n/12 Далее Michael R. Ransom оценивает собственную мо
 дель на данных университета Аризоны
  []
 
 
-Overfull \hbox (84.21944pt too wide) in paragraph at lines 70--71
+Overfull \hbox (84.21944pt too wide) in paragraph at lines 71--72
 \EU1/TimesNewRoman(0)/m/n/12 стараются их нанять, предлагая более высокую зараб
 отную плату. Получается, что более «высококачественные»
  []
 
 
-Overfull \hbox (1.66916pt too wide) in paragraph at lines 70--71
+Overfull \hbox (1.66916pt too wide) in paragraph at lines 71--72
 \EU1/TimesNewRoman(0)/m/n/12 работники получают более высокую заработную плату,
  а работники с высоким сеньорити имеют
  []
 
 
-Overfull \hbox (0.74844pt too wide) in paragraph at lines 70--71
+Overfull \hbox (0.74844pt too wide) in paragraph at lines 71--72
 \EU1/TimesNewRoman(0)/m/n/12 «качество» работников не может служить адекватным 
 объяснением отрицательной зависимости
  []
 
 [2]
-Overfull \hbox (4.18283pt too wide) in paragraph at lines 72--73
+Overfull \hbox (4.18283pt too wide) in paragraph at lines 73--74
 \EU1/TimesNewRoman(0)/m/n/12 поэтому для смены работы профессору необходимо пер
 еехать, что влечёт за собой определённые
  []
 
 
-Overfull \hbox (22.98622pt too wide) in paragraph at lines 72--73
+Overfull \hbox (22.98622pt too wide) in paragraph at lines 73--74
 \EU1/TimesNewRoman(0)/m/n/12 издержки. Если издержки высоки, агент предпочтёт о
 статься в прежнем городе (продолжительность
  []
 
 
-Overfull \hbox (19.71799pt too wide) in paragraph at lines 72--73
+Overfull \hbox (19.71799pt too wide) in paragraph at lines 73--74
 \EU1/TimesNewRoman(0)/m/n/12 работы в одном университете будет расти), а зарабо
 тная плата будет ниже возможной предложенной
  []
 
 
-Overfull \hbox (13.90028pt too wide) in paragraph at lines 72--73
+Overfull \hbox (13.90028pt too wide) in paragraph at lines 73--74
 \EU1/TimesNewRoman(0)/m/n/12 университетом в каком-либо другом городе. Однако д
 анная модель не предсказывает, что зарплаты
  []
 
 
-Overfull \hbox (7.9125pt too wide) in paragraph at lines 74--75
+Overfull \hbox (7.9125pt too wide) in paragraph at lines 75--76
 \EU1/TimesNewRoman(0)/m/n/12 плат с увеличением сеньорити на примере различных 
 эмпирических исследований и рассмотрели
  []
 
 
-Overfull \hbox (30.65614pt too wide) in paragraph at lines 74--75
+Overfull \hbox (30.65614pt too wide) in paragraph at lines 75--76
 \EU1/TimesNewRoman(0)/m/n/12 рынке олигопсонии? Сперва обратимся к исследованию
 , которое в принципе отрицает существование
  []
 
 
-Overfull \hbox (12.037pt too wide) in paragraph at lines 76--77
+Overfull \hbox (12.037pt too wide) in paragraph at lines 77--78
 \EU1/TimesNewRoman(0)/m/n/12 (1998), получивших совершенно иные результаты. Отр
 ицательная зависимость между заработной
  []
 
 
-Overfull \hbox (11.57538pt too wide) in paragraph at lines 76--77
+Overfull \hbox (11.57538pt too wide) in paragraph at lines 77--78
 \EU1/TimesNewRoman(0)/m/n/12 В качестве выборки авторы использовали профессоров
 , нанятых на программы Ph.D по экономике
  []
 
 
-Overfull \hbox (26.8077pt too wide) in paragraph at lines 76--77
+Overfull \hbox (26.8077pt too wide) in paragraph at lines 77--78
 \EU1/TimesNewRoman(0)/m/n/12 в 9 государственных университетов. Для усовершенст
 вования предыдущих моделей продуктивность
  []
 
 
-Overfull \hbox (9.92958pt too wide) in paragraph at lines 76--77
+Overfull \hbox (9.92958pt too wide) in paragraph at lines 77--78
 \EU1/TimesNewRoman(0)/m/n/12 предположение, что исследования являлись самой важ
 ной компонентой. Для получения градации
  []
 
 
-Overfull \hbox (15.40665pt too wide) in paragraph at lines 76--77
+Overfull \hbox (15.40665pt too wide) in paragraph at lines 77--78
 \EU1/TimesNewRoman(0)/m/n/12 на должности заведующего кафедрой в высшем учебном
  заведении как показатель управленческих
  []
 
 [3]
-Overfull \hbox (29.37149pt too wide) in paragraph at lines 78--79
+Overfull \hbox (29.37149pt too wide) in paragraph at lines 79--80
 \EU1/TimesNewRoman(0)/m/n/12 количества публикаций выявляет отрицательную завис
 имость заработных плат и продолжительности
  []
 
 
-Overfull \hbox (11.36237pt too wide) in paragraph at lines 82--85
+Overfull \hbox (11.36237pt too wide) in paragraph at lines 83--86
 []\EU1/TimesNewRoman(0)/m/n/12 Одним из источников появления рыночной силы може
 т служить разнородность заработных
  []
 
 
-Overfull \hbox (11.96083pt too wide) in paragraph at lines 82--85
+Overfull \hbox (11.96083pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 существование издержек агента по смене работы. Бол
 ее того, работники с одинаковыми навыками
  []
 
 
-Overfull \hbox (35.90744pt too wide) in paragraph at lines 82--85
+Overfull \hbox (35.90744pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 и способностями могут иметь различные предпочтения
 , касаемо таких неоплачиваемых характеристик
  []
 
 
-Overfull \hbox (23.47739pt too wide) in paragraph at lines 82--85
+Overfull \hbox (23.47739pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 работы как: специфика работы, часы работы, расстоя
 ние от дома до работы, атмосфера в коллективе.
  []
 
 
-Overfull \hbox (4.80978pt too wide) in paragraph at lines 82--85
+Overfull \hbox (4.80978pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 Авторы статьи объясняют, каким образом модель олиг
 опсонии на рынке труда помогает углубить
  []
 
 
-Overfull \hbox (32.76682pt too wide) in paragraph at lines 82--85
+Overfull \hbox (32.76682pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 понимание различных феноменов: плата работодателям
 и за тренинги для работников, дискриминация
  []
 
 
-Overfull \hbox (1.72775pt too wide) in paragraph at lines 82--85
+Overfull \hbox (1.72775pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 Alan Manning and Ted To пишут, что рыночная сила п
 оявляется за счёт различий в предпочтениях
  []
 
 
-Overfull \hbox (30.20888pt too wide) in paragraph at lines 82--85
+Overfull \hbox (30.20888pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 работников, издержек переезда и неполной информаци
 и. Поэтому кажется полноправным заключить,
  []
 
 
-Overfull \hbox (26.14847pt too wide) in paragraph at lines 82--85
+Overfull \hbox (26.14847pt too wide) in paragraph at lines 83--86
 \EU1/TimesNewRoman(0)/m/n/12 что модель олигопсонии хорошо описывает рынок труд
 а, в частности академический, исследованием
  []
 
 [4]
-Overfull \hbox (17.2797pt too wide) in paragraph at lines 88--89
+Overfull \hbox (17.2797pt too wide) in paragraph at lines 89--90
 \EU1/TimesNewRoman(0)/m/n/12 которой у профессора будет выбор: либо остаться в 
 своем регионе и пойти в один из университетов,
  []
 
 
-Overfull \hbox (34.47957pt too wide) in paragraph at lines 88--89
+Overfull \hbox (34.47957pt too wide) in paragraph at lines 89--90
 \EU1/TimesNewRoman(0)/m/n/12 либо уехать и понести издержки переезда. Модель бу
 дет строится на основе модели монопсонического
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 90.
+LaTeX Font Info:    Try loading font information for U+msa on input line 91.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 90.
+LaTeX Font Info:    Try loading font information for U+msb on input line 91.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (24.98166pt too wide) in paragraph at lines 90--91
-\EU1/TimesNewRoman(0)/m/n/12 являются единственными экземплярами, предлагающими
- именно такую комбинацию способностей.
+Overfull \hbox (26.22385pt too wide) in paragraph at lines 91--92
+\EU1/TimesNewRoman(0)/m/n/12 преподаватели являются единственными экземплярами,
+ предлагающими именно такую комбинацию
  []
 
 
-Overfull \hbox (24.60652pt too wide) in paragraph at lines 90--91
-\EU1/TimesNewRoman(0)/m/n/12 Это сильно отличает академический рынок труда от м
-ногих других (неплохо бы ссылку). Вследствие
+Overfull \hbox (18.27892pt too wide) in paragraph at lines 91--92
+\EU1/TimesNewRoman(0)/m/n/12 Также будет существовать рыночная заралата $\OML/c
+mm/m/it/12 w[]$\EU1/TimesNewRoman(0)/m/n/12 ; именно с такой зарплатой универси
+тету придется
  []
 
 
-Overfull \hbox (10.37567pt too wide) in paragraph at lines 96--97
+Overfull \hbox (10.37567pt too wide) in paragraph at lines 97--98
 []\EU1/TimesNewRoman(0)/m/n/12 Как мы видим, в зависимости от предложенной зарп
 латы, зарплаты предложенной другими
  []
 
 
-Overfull \hbox (16.63675pt too wide) in paragraph at lines 96--97
+Overfull \hbox (16.63675pt too wide) in paragraph at lines 97--98
 \EU1/TimesNewRoman(0)/m/n/12 распределение, случайным исходом для которой будет
  являться выбор, сделанный преподавателем.
  []
 
 
-Overfull \hbox (7.55978pt too wide) in paragraph at lines 96--97
+Overfull \hbox (7.55978pt too wide) in paragraph at lines 97--98
 \EU1/TimesNewRoman(0)/m/n/12 информацией, и единственный источник случайности з
 аключается в выборе профессором одного
  []
 
 
-Overfull \hbox (0.1008pt too wide) in paragraph at lines 96--97
+Overfull \hbox (0.1008pt too wide) in paragraph at lines 97--98
 \EU1/TimesNewRoman(0)/m/n/12 из университетов. Мы можем предположить, что функц
 ия $\OML/cmm/m/it/12 p[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[]; w[]; m; w[]\OT1/
 cmr/m/n/12 )$ \EU1/TimesNewRoman(0)/m/n/12 имеет следующий
  []
 
 [5]
-LaTeX Font Info:    Try loading font information for U+dsrom on input line 98.
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 99.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 )
-Overfull \hbox (7.61172pt too wide) in paragraph at lines 99--101
+Overfull \hbox (7.61172pt too wide) in paragraph at lines 100--102
 \EU1/TimesNewRoman(0)/m/n/12 Профессор сравнивает предложенную ему зарплату нек
 оторым университетом с зарплатой рынка
  []
 
 
-Overfull \hbox (25.64052pt too wide) in paragraph at lines 99--101
+Overfull \hbox (25.64052pt too wide) in paragraph at lines 100--102
 \EU1/TimesNewRoman(0)/m/n/12 и своими дисконтированными издержками переезда. Бо
 лее того, ввиду наличия функции индикатора
  []
 
 
-Overfull \hbox (16.47775pt too wide) in paragraph at lines 99--101
+Overfull \hbox (16.47775pt too wide) in paragraph at lines 100--102
 \EU1/TimesNewRoman(0)/m/n/12 максимальной цены преподаватель будет рассматриват
 ь лишь тот университет, который предложил
  []
 
 
-Overfull \hbox (16.99715pt too wide) in paragraph at lines 99--101
+Overfull \hbox (16.99715pt too wide) in paragraph at lines 100--102
 \EU1/TimesNewRoman(0)/m/n/12 рынке. По причине присутствия ненаблюдаемых фактор
 ов решение всё равно остается случайным. 
  []
 
 
-Overfull \hbox (15.65027pt too wide) in paragraph at lines 103--104
+Overfull \hbox (15.65027pt too wide) in paragraph at lines 104--105
 []\EU1/TimesNewRoman(0)/m/n/12 Возможен также случай, когда несколько университ
 етов предложат максимальную зарплату.
  []
 
 
-Overfull \hbox (19.33792pt too wide) in paragraph at lines 105--106
+Overfull \hbox (19.33792pt too wide) in paragraph at lines 106--107
 \EU1/TimesNewRoman(0)/m/n/12 sonistic Competition in Labor Markets Bhaskar, A. 
 Manning, Ted To (2002) рассматриваются различные
  []
 
 
-Overfull \hbox (15.77507pt too wide) in paragraph at lines 107--108
+Overfull \hbox (15.77507pt too wide) in paragraph at lines 108--109
 []\EU1/TimesNewRoman(0)/m/n/12 Заметим, что если ВУЗ устанавливает зарплату ниж
 е чем его конкуренты, то он сталкивается
  []
 
 
-Overfull \hbox (17.91707pt too wide) in paragraph at lines 107--108
+Overfull \hbox (17.91707pt too wide) in paragraph at lines 108--109
 \EU1/TimesNewRoman(0)/m/n/12 одинаковую зарплату. Также должно быть выполнено с
 ледующее условие для каждого конкретного
  []
 
 
-Overfull \hbox (38.23221pt too wide) detected at line 110
+Overfull \hbox (38.23221pt too wide) detected at line 111
 \OML/cmm/m/it/12 p[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12 ^^@ 
 \OML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 ^^Nm\OT1/cmr/m/n/12 )\O
 ML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 p
@@ -1189,37 +1196,43 @@ it/12 w[] \OMS/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 w[]
  []
 
 [6]
-Overfull \hbox (8.28598pt too wide) in paragraph at lines 129--130
+Overfull \hbox (8.28598pt too wide) in paragraph at lines 130--131
 \EU1/TimesNewRoman(0)/m/n/12 чем на рынках, где присутствует лишь один универси
 тет, это будет связано с тем, что конкуренция
  []
 
 
-Overfull \hbox (4.27528pt too wide) in paragraph at lines 133--134
+Overfull \hbox (4.27528pt too wide) in paragraph at lines 134--135
 \EU1/TimesNewRoman(0)/m/n/12 система университетов. Во-первых, университеты вну
 три этой системы независимы и примерно
  []
 
+
+Overfull \hbox (27.37373pt too wide) in paragraph at lines 134--135
+\EU1/TimesNewRoman(0)/m/n/12 второго ранга, например, Техас Саутерн и Университ
+ет Конкордия. Так как в Хьюстоне присутствуют
+ []
+
 [7]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 135
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 136
 .
  (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (20.54323pt too wide) in paragraph at lines 135--137
+Overfull \hbox (20.54323pt too wide) in paragraph at lines 136--138
 [][]$[][][][] [] [] [] [][][][][][][][] [] [][][][][][][][][][][][] [] [][][] [
 ] [][][][][][][][][][][][][][][][][][][][][][][][]$[][]\EU1/TimesNewRoman(0)/m/
 n/12 . Перед началом анализа данные
  []
 
 
-Overfull \hbox (6.75539pt too wide) in paragraph at lines 135--137
+Overfull \hbox (6.75539pt too wide) in paragraph at lines 136--138
 \EU1/TimesNewRoman(0)/m/n/12 только работники, занимающиеся преподаванием, то е
 сть профессоры. Наконец, была добавлена
  []
 
 
-Overfull \hbox (34.35097pt too wide) in paragraph at lines 135--137
+Overfull \hbox (34.35097pt too wide) in paragraph at lines 136--138
 \EU1/TimesNewRoman(0)/m/n/12 переменная $\OML/cmm/m/it/12 seniority$\EU1/TimesN
 ewRoman(0)/m/n/12 , показывающая сколько полных лет индивид проработал в данном
  университете.
@@ -1233,48 +1246,36 @@ Overfull \hbox (1.72456pt too wide) in paragraph at lines 203--204
  []
 
 
-Overfull \hbox (26.25784pt too wide) in paragraph at lines 203--204
-\EU1/TimesNewRoman(0)/m/n/12 объясниться с помощью дополнительных регрессоров, 
+Overfull \hbox (25.3555pt too wide) in paragraph at lines 203--204
+\EU1/TimesNewRoman(0)/m/n/12 объясняться с помощью дополнительных регрессоров, 
 например, количества и качества публикаций,
  []
 
 
-Overfull \hbox (8.76291pt too wide) in paragraph at lines 203--204
-\EU1/TimesNewRoman(0)/m/n/12 приведены примеры моделей, в которых при добавлени
-и в регрессию продуктивных переменных,
- []
-
-
-Overfull \hbox (3.33713pt too wide) in paragraph at lines 203--204
-\EU1/TimesNewRoman(0)/m/n/12 переменных из-за отсутствия ресурсов по сбору данн
-ых, где количество наблюдений превышало
- []
-
-
-Overfull \hbox (57.55145pt too wide) in paragraph at lines 207--208
-[]\EU1/TimesNewRoman(0)/m/n/12 Также, возможные проблемы могут возникать из-за 
-того, что выборка не является репрезентативной.
- []
-
-
-Overfull \hbox (21.73282pt too wide) in paragraph at lines 207--208
-\EU1/TimesNewRoman(0)/m/n/12 Такой вывод можно сделать исходя из графика плотно
-сти логарифма заработной платы: в идеальной
+Overfull \hbox (2.77463pt too wide) in paragraph at lines 203--204
+\EU1/TimesNewRoman(0)/m/n/12 использовано подобных переменных из-за отсутствия 
+ресурсов по сбору данных, где количество
  []
 
 File: image1.jpg Graphic file (type QTm)
-<use  "image1.jpg" > [9] (./inst_proj.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
+<use  "image1.jpg" > [9]
+Overfull \hbox (1.93283pt too wide) in paragraph at lines 217--218
+\EU1/TimesNewRoman(0)/m/n/12 относится к профессорам Лиги Плюща, в следствие эт
+ого профессор получает некоторую власть
+ []
+
+(./inst_proj.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (./inst_proj.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 220.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 220.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 223.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 220.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
  22871 strings out of 493706
