@@ -1,7 +1,10 @@
 # Fdb version 3
-["pdflatex"] 0 "biblio.bib" "biblio.pdf" "biblio" 0
+["pdflatex"] 1457542037 "biblio.bib" "biblio.pdf" "biblio" 1457542037
+  "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1443555511 31984 955cb5edfc30372739da64506c874658 ""
+  "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1444140928 3852185 f2dc4147114ab4e0142e1966e655e677 ""
+  "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
   "biblio.aux" 1457542037 8 a94a2480d3289e625eea47cd1b285758 ""
-  "biblio.bib" 0 -1 0 ""
+  "biblio.bib" 1457541083 1181 3e1f55f115da4d80bc42e586d38982b0 ""
   (generated)
   "biblio.log"
   "biblio.pdf"
